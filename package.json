@@ -1,6 +1,6 @@
 {
 	"name": "scrollable-cards",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Web Components for Horizontal Scrolling Cards",
 	"main": "scrollable-cards.js",
 	"scripts": {
