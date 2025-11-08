@@ -2,7 +2,7 @@
 
 Web Components for Horizontal Scrolling Cards.
 
-https://github.com/user-attachments/assets/58128558-ee34-4355-9a0e-9008589326a0
+<video aria-label="Set of cards that have recipe details. The user scrolls the cards and they stack on the left side instead of scrolling off the page." src="https://github.com/user-attachments/assets/58128558-ee34-4355-9a0e-9008589326a0"></video>
 
 ## How to Use
 
